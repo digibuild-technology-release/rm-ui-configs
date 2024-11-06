@@ -1,8 +1,8 @@
 {
   "realm": "Dev",
   "palette": {
-    "primary": "#003050",
-    "secondary": "#C8004B",
+    "primary": "#077bbe",
+    "secondary": "#449ccd",
     "accent": "#A0B1BE",
     "error": "#F44336",
     "info": "#3d8ecc",
