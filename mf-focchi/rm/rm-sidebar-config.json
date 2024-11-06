@@ -8,7 +8,13 @@
       "title": "labels.rules",
       "icon": "mdi-ruler-square-compass",
       "link": "/rules"
+    },
+    {
+      "title": "Digital Twin",
+      "icon": "mdi-domain",
+      "link": "https://apps.digibuild-project.eu/focchi-twin/"
     }
+
   ],
   "favorites": {
     "enabled": false,
@@ -17,7 +23,7 @@
   "keycloak": {
     "enabled": true
   },
-  "logo": "/rm/RuleManager.svg",
-  "miniLogo": "/de-mini.svg",
+  "logo": "/rm/digibuild-full-logo.png",
+  "miniLogo": "/rm/digibuild-mini-logo.png",
   "showServicesMenu": false
 }
