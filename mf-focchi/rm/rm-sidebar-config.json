@@ -7,7 +7,7 @@
     {
       "title": "labels.rules",
       "icon": "mdi-ruler-square-compass",
-      "link": "/rules"
+      "link": "/rule-manager/rules"
     },
     {
       "title": "Digital Twin",
