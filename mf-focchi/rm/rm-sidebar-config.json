@@ -1,7 +1,7 @@
 {
   "mf": "Sidebar",
   "api": "https://apps.digibuild-project.eu/rule-manager-middleware/api/v1",
-  "storageImgs": "http://apps.digibuild-project.eu/focchi-storage/images",
+  "storageImgs": "http://focchi-minio-hl.focchi.svc.cluster.local/focchi-storage/images",
   "jsonTools": "https://raw.githubusercontent.com/digital-enabler/UI-Configs/main/mf-dev/common/services.json",
   "links": [
     {
