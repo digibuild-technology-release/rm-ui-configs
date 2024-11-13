@@ -1,5 +1,5 @@
 {
     "mf": "Footer",
     "api": "",
-    "storageImgs": "http://focchi-minio-hl.focchi.svc.cluster.local/focchi-storage/images"
+    "storageImgs": "https://apps.digibuild-project.eu/focchi-storage/images"
 }
